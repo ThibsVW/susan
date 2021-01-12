@@ -3,8 +3,8 @@ import Mock from "../mock";
 const database = {
   information: {
     name: 'Simone',
-    aboutContent: "I am a Jr Web Developer. I graduated from UC Berkeley Extension program with a certification in Fullstack MERN development, and I am looking for the next opportunity to develop my skills further.",
-    age: 25,
+    aboutContent: "The mission of Honey Photography is to create lasting memories with passion and enthusiasm, in a way that has never been captured and is also determined to handle each and every guest in a family like manner.",
+    age: 26,
     phone: '',
     nationality: 'Australian',
     language: 'English',
@@ -28,46 +28,46 @@ const database = {
   },
   services: [
     {
-      title: "Web Design",
+      title: "Animals",
       icon: 'color-pallet',
-      details: "Worked with organizing and structuring frontend enviornments in both educational and professional settings."
+      details: "explanation here about this topic"
     },
     {
-      title: "Web Development",
+      title: "Celebrations",
       icon: 'code',
-      details: "Developed several web applications during the course of the UC Berkeley certification progra, utilizing both front and back end technologies."
+      details: "explanation here about this topic."
     },
     {
-      title: "Cooperative Experience",
+      title: "Real Estate",
       icon: 'handshake',
-      details: "Has worked on major projects in teams, planning and coordinating with several people at once to develop entire applications."
+      details: "explanation here about this topic"
     }
   ],
   reviews: [
     {
       id: 1,
-      content: "Patrick was focused on success throughout the course, coming early to each class and dedicating time and energy into the homework and group projects.  Clearly, he loves to code and will tenaciously attack any challenge.",
+      content: "Wow we are both blown away, these photos are beautiful. Thank you so much for capturing our wedding day. We love our photos and how you’ve captured every precious moment of our ceremony in detail.",
       author: {
-        name: 'Mark Carlson',
-        designation: 'Lead Developer, Takeoff Technologies'
+        name: 'Mark & Angelica',
+        designation: ''
       },
-    }
-    // {
-    //   id: 2,
-    //   content: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita impedit nobis tempore quaerat quibusdam.",
-    //   author: {
-    //     name: 'Susan Yost',
-    //     designation: 'Client'
-    //   }
-    // },
-    // {
-    //   id: 3,
-    //   content: "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
-    //   author: {
-    //     name: 'Irving Feeney',
-    //     designation: 'Fiverr Client'
-    //   }
-    // }
+    },
+     {
+      id: 2,
+    content: "Our album has arrived and it is beautiful!! Thank you for all your hard work in helping us create a fabulous keep sake.",
+    author: {
+    name: 'Susan Yost',
+      designation: ''
+      }
+     },
+    {
+     id: 3,
+      content: "Thank You so much for getting our photo’s out to us so quickly.  They are absolutely beautiful.  You managed to capture so much perfectly. Thank you so much for your professionalism, you made the day that much more relaxed and enjoyable.",
+      author: {
+       name: 'Alex',
+      designation: ''
+      }
+     }
   ],
   skills: [
     {
