@@ -275,9 +275,9 @@ const database = {
     }
   ],
   contactInfo: {
-    phoneNumbers: ['(707) 386-6233'],
-    emailAddress: ['patrickfinnigan94@gmail.com'],
-    address: "Olympia, Washington"
+    phoneNumbers: ['+61 400 007 073'],
+    emailAddress: ['honeyphotography@outlook.com.au'],
+    address: "Perth, Australia"
   }
 }
 
