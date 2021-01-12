@@ -8,7 +8,7 @@ const database = {
     phone: '',
     nationality: 'Australian',
     language: 'English',
-    email: 'patrickfinnigan94@gmail.com',
+    email: 'honeyphotography@outlook.com.au',
     address: '',
     freelanceStatus: 'Available',
     socialLinks: {
