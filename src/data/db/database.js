@@ -2,11 +2,11 @@ import Mock from "../mock";
 
 const database = {
   information: {
-    name: 'Patrick Finnigan',
+    name: 'Simone',
     aboutContent: "I am a Jr Web Developer. I graduated from UC Berkeley Extension program with a certification in Fullstack MERN development, and I am looking for the next opportunity to develop my skills further.",
     age: 25,
     phone: '',
-    nationality: 'American',
+    nationality: 'Australian',
     language: 'English',
     email: 'patrickfinnigan94@gmail.com',
     address: '',
