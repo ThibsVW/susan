@@ -53,7 +53,7 @@ function Home(){
           <div className="row justify-content-center">
             <div className="col-lg-10 col-12">
               <div className="mi-home-content">
-                <h1>
+                <h1> 
                   Honey Photography <span className="webTitle"></span>
                 </h1>
                 <p>Hello, my name is Simone, and I will be your Photographer!

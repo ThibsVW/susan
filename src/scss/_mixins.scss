@@ -29,7 +29,7 @@
 // Gradient color
 @mixin gradient-color($value, $deg) {
 	@if $value==a {
-		background:linear-gradient($deg#{deg}, #f71595 0%, #ed560e 62%, #ff9600 100%);
+		background:linear-gradient($deg#{deg}, #fffdfe 0%, #ed560e 62%, #ff9600 100%);
 		background-clip: text;
 		text-fill-color: transparent;
 	}

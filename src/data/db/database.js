@@ -71,65 +71,67 @@ const database = {
   ],
   skills: [
     {
-      title: "HTML5",
-      value: 70
+      title: "Creativity",
+      value: 90
     },
     {
-      title: "CSS3",
-      value: 65
+      title: "Patience",
+      value: 85
     },
     {
-      title: "Javascript",
-      value: 55
+      title: "Attention to detail",
+      value: 90
     },
     {
-      title: "jQuery",
-      value: 50
+      title: "Technical",
+      value: 75
     },
     {
-      title: "ReactJS",
-      value: 50
+      title: "Communication",
+      value: 90
     },
     {
-      title: "Bootstrap",
-      value: 65
+      title: "Flexibility",
+      value: 80
     }
   ],
   portfolios: [
     {
       id: 1,
-      title: "Guessing Game",
-      subtitle: "HTML, CSS, Javastript",
+      title: "Luna",
+      subtitle: "Clink on the link to meet Luna.",
       imageUrl: "/images/portfolio-image-1.jpg",
       // largeImageUrl: ["/images/portfolio-image-1-lg.jpg"],
-      url: 'https://patrickfinnigan.github.io/guessinggame/'
+      url: 'https://www.facebook.com/honeyphotography.dogs/photos/a.107161771324451/107170347990260/'
     },
     {
       id: 2,
-      title: "Gem Mining",
-      subtitle: "HTML, CSS, JavaScript, jQuery",
+      title: "Ruckus",
+      subtitle: "Clink on the link to meet Ruckus.",
+      
       imageUrl: "/images/portfolio-image-2.jpg",
       // largeImageUrl: ["/images/portfolio-image-2-lg.jpg"],
-      url: 'https://pinterest.com'
+      url: 'https://www.facebook.com/honeyphotography.dogs/photos/a.107161771324451/107170467990248'
     },
     {
       id: 3,
-      title: "Trivia Game",
-      subtitle: "HTML, jQuery, Timers",
+      title: "Kobe",
+      subtitle: "Clink on the link to meet Kobe.",
+
       imageUrl: "/images/portfolio-image-3.jpg",
       // largeImageUrl: ["/images/portfolio-image-3-lg.jpg"],
-      url: 'https://patrickfinnigan.github.io/trivia_game/'
+      url: 'https://www.facebook.com/honeyphotography.dogs/photos/a.107161771324451/107170561323572'
     },
     {
       id: 4,
-      title: "Gif Generator",
-      subtitle: "API, JSON, Ajax",
+      title: "Alfie",
+      subtitle: "Clink on the link to meet Alfie.",
       imageUrl: "/images/portfolio-image-4.jpg",
       // largeImageUrl: [
       //   "/images/portfolio-image-4-lg.jpg",
       //   "/images/portfolio-image-4-lg2.jpg"
       // ],
-      url: 'https://patrickfinnigan.github.io/gifgenerator/'
+      url: 'https://www.facebook.com/honeyphotography.dogs/photos/a.107161771324451/107170904656871'
     },
     {
       id: 5,
