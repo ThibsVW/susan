@@ -99,7 +99,7 @@ const database = {
     {
       id: 1,
       title: "Luna",
-      subtitle: "Clink on the link to meet Luna.",
+      subtitle: "Clink on the picture to meet Luna.",
       imageUrl: "/images/portfolio-image-1.jpg",
       // largeImageUrl: ["/images/portfolio-image-1-lg.jpg"],
       url: 'https://www.facebook.com/honeyphotography.dogs/photos/a.107161771324451/107170347990260/'
@@ -107,7 +107,7 @@ const database = {
     {
       id: 2,
       title: "Ruckus",
-      subtitle: "Clink on the link to meet Ruckus.",
+      subtitle: "Clink on the picture to meet Ruckus.",
       
       imageUrl: "/images/portfolio-image-2.jpg",
       // largeImageUrl: ["/images/portfolio-image-2-lg.jpg"],
@@ -116,7 +116,7 @@ const database = {
     {
       id: 3,
       title: "Kobe",
-      subtitle: "Clink on the link to meet Kobe.",
+      subtitle: "Clink on the picture to meet Kobe.",
 
       imageUrl: "/images/portfolio-image-3.jpg",
       // largeImageUrl: ["/images/portfolio-image-3-lg.jpg"],
@@ -125,7 +125,7 @@ const database = {
     {
       id: 4,
       title: "Alfie",
-      subtitle: "Clink on the link to meet Alfie.",
+      subtitle: "Clink on the picture to meet Alfie.",
       imageUrl: "/images/portfolio-image-4.jpg",
       // largeImageUrl: [
       //   "/images/portfolio-image-4-lg.jpg",
@@ -135,61 +135,61 @@ const database = {
     },
     {
       id: 5,
-      title: "Firebase Train Scheduler",
-      subtitle: "Firebase, HTML, JavaScript",
+      title: "Lily",
+      subtitle: "Clink on the picture to meet Lily.",
       imageUrl: "/images/portfolio-image-5.jpg",
       // largeImageUrl: ["/images/portfolio-image-5-lg.jpg"],
-      url: 'https://patrickfinnigan.github.io/trainschedule/'
+      url: 'https://www.facebook.com/honeyphotography.dogs/photos/a.107161771324451/109914831049145'
     },
     {
       id: 6,
-      title: "Burger Time",
-      subtitle: "Mongo, Express, Node",
+      title: "Ollie",
+      subtitle: "Clink on the picture to meet Ollie.",
       imageUrl: "/images/portfolio-image-6.jpg",
       // largeImageUrl: ["/images/portfolio-image-6-lg.jpg"],
-      url: 'https://damp-mountain-93742.herokuapp.com/burgers'
+      url: 'https://www.facebook.com/honeyphotography.dogs/photos/a.107161771324451/109916944382267'
     },
     {
       id: 7,
-      title: "React Shuffle",
-      subtitle: "React",
+      title: "Opus",
+      subtitle: "Clink on the picture to meet Opus.",
       imageUrl: "/images/portfolio-image-7.jpg",
       // largeImageUrl: ["/images/portfolio-image-7-lg.jpg"],
-      url: 'https://react-gameucbextension2018.herokuapp.com/'
+      url: 'https://www.facebook.com/honeyphotography.dogs/photos/107161754657786'
     },
     {
-      id: 8,
-      title: "NYT Article Scraper",
-      subtitle: "React, Mongoose, Cheerio",
-      imageUrl: "/images/portfolio-image-8.jpg",
+      //id: 8,
+      //title: "NYT Article Scraper",
+      //subtitle: "React, Mongoose, Cheerio",
+      //imageUrl: "/images/portfolio-image-8.jpg",
       // largeImageUrl: ["/images/portfolio-image-8-lg.jpg"],
-      url: 'https://young-river-49658.herokuapp.com/'
+      //url: 'https://young-river-49658.herokuapp.com/'
     },
     {
-      id: 9,
-      title: "Demoquest",
-      subtitle: "Mongoose, Express, React, Node",
-      imageUrl: "/images/portfolio-image-9.jpg",
+      //id: 9,
+      //title: "Demoquest",
+      //subtitle: "Mongoose, Express, React, Node",
+      //imageUrl: "/images/portfolio-image-9.jpg",
       // largeImageUrl: ["/images/portfolio-image-9-lg.jpg"],
-      url: 'https://demoquest.herokuapp.com/'
+      //url: 'https://demoquest.herokuapp.com/'
     }
   ],
   experience: {
     workingExperience: [
       {
         id: 1,
-        year: "2019 - Present",
-        position: "Frontend Web Developer",
-        company: "Socicraft (Currently under NDA)",
-        details: "Developing and designing the front-end layout of the company website, utilizing React tools to edit the website to meet company expectations."
+        year: "2020 - Present",
+        position: "Freelance Photographer",
+        company: "Honey Photographer",
+        details: "In 2020 I took a leap and decided I am going to follow my heart and become a dog photographer & I am travelling down a new creative path with purpose to make people happy, myself included; and cuddle as many dogs as possible! And what better way to make people happy than to create memories of their adored furry friend. I am a part of the Photography Institute however I have always been nifty with a camera and a lot of my skills have been self-taught. I love hard copy photos that you can touch, hold and keep forever, and I am always that person that brings out the old photo albums, creating photobooks as birthday presents, making holiday videos and yep, I am that person always with a camera in hand.You can be sure I am either taking photos, looking at photos or creating something incredible with those memories. I do not just take photos, I create keepsakes of cherished memories."
       },
-      // {
-      //   id: 2,
-      //   year: "2016 - 2018",
-      //   position: "Frontend Web Developer",
-      //   company: "CBA Company",
-      //   details: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. Deleniti exercitationem nostrum quasi. Molestiae, vel porro."
-      // },
+       {
+         id: 2,
+         year: "2015 - Present",
+         position: "Registered Nurse",
+         company: "CBA Company",
+         details: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. Deleniti exercitationem nostrum quasi. Molestiae, vel porro."
+       },
       // {
       //   id: 3,
       //   year: "2014 - 1016",
@@ -201,17 +201,17 @@ const database = {
     educationExperience: [
       {
         id: 1,
-        year: "Sept 2012 - July 2016",
-        graduation: "Bachelor of Arts in Psychology",
-        university: "Sonoma State University",
-        details: "Studied clinical and social psychology, and developed an understanding of aesthetic design that can be used in web development"
+        year: "2020",
+        graduation: "Photography Course",
+        university: "TAFE",
+        details: "Ever since the world’s first photograph was taken more than 200 years ago, people have turned to cameras to capture some of life's most important moments; however, few have mastered the art of doing so effectively"
       },
       {
         id: 2,
-        year: "May 2018 - Nov 2018",
-        graduation: "Certification in Web Development",
-        university: "UC Berkeley Extension Program Coding Bootcamp",
-        details: "Learned the fundamentals of computer science and web design, learning how to develop fullstack MERN applications."
+        year: "2015",
+        graduation: "Bachelor of Nursing",
+        university: "Murdoch",
+        details: "The primary role of a nurse is to advocate and care for individuals of all ethnic origins and religious backgrounds and support them through health and illness. "
       },
       // {
       //   id: 3,
