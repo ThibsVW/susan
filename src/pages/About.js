@@ -113,7 +113,11 @@ function About(){
                     <b>Freelance</b> {information.freelanceStatus}
                   </li>}
                 </ul>
+               
+               {/*
                 <a href={information.cvfile} className="mi-button">Price List</a>
+
+               */}
               </div>
             </div>
           </div>
@@ -132,7 +136,9 @@ function About(){
             </div>
           </div>
         </div>
-              </div> */}
+              </div>*/}
+
+{/*
       <div className="mi-review-area mi-section mi-padding-top mi-padding-bottom">
         <div className="container">
           <Sectiontitle title="Reviews" />
@@ -147,6 +153,8 @@ function About(){
           </div>
         </div>
       </div>
+                */}
+
     </Layout>
   );
 }
