@@ -10,7 +10,7 @@
     min-height: 100vh;
     position: relative;
     z-index: 1;
-    font-family: papyrus;
+    font-family: 'Tangerine', serif;
   }
 
   &-particle{
@@ -27,8 +27,8 @@
     padding: 50px 80px;
 
     h1{
-      font-weight: 700;
-      font-family: papyrus;
+      font-weight: 500;
+      font-family:  'Tangerine', serif ;
     }
 
     p{
@@ -59,7 +59,7 @@
       padding: 50px 0px;
 
       p{
-        font-size: 1.15rem;
+        font-size: 2rem;
         line-height: 1.75rem;
       }
     }
