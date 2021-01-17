@@ -3,7 +3,7 @@ import Mock from "../mock";
 const database = {
   information: {
     name: 'Simone',
-    aboutContent: "Hello, my name is Simone, and I will be your Photographer! This is a little blurb to get to know me :).I have been a Nurse for the past 5 years caring and helping all kinds of people, I love nursing but needed a little something more wholesome. I always joked that if I quit my career I would become a dog photographer because who wouldn’t want to spend every day with dogs? In 2020 I took a leap and decided I am going to follow my heart and become a dog photographer & I am travelling down a new creative path with purpose to make people happy, myself included; and cuddle as many dogs as possible! And what better way to make people happy than to create memories of their adored furry friend. I am a part of the Photography Institute however I have always been nifty with a camera and a lot of my skills have been self-taught. I love hard copy photos that you can touch, hold and keep forever, and I am always that person that brings out the old photo albums, creating photobooks as birthday presents, making holiday videos and yep, I am that person always with a camera in hand. You can be sure I am either taking photos, looking at photos or creating something incredible with those memories. I do not just take photos, I create keepsakes of cherished memories.I grew up in the Perth Hills, Western Australia, with a large family and forever a rescued family dog. I have a partner Jason, many friends and a beloved god daughter who makes a very good assistant but a not so great model as she is currently a 3 year old human hurricane. I am currently renting and not allowed a dog of my own, however the day I can I know she will be a Golden Cocker Spaniel named Honey",
+    aboutContent: "Hello, my name is Simone, and I will be your Photographer! This is a little blurb to get to know me :). I have been a Nurse for the past 5 years caring and helping all kinds of people, I love nursing but needed a little something more wholesome. I always joked that if I quit my career I would become a dog photographer because who wouldn’t want to spend every day with dogs? In 2020 I took a leap and decided I am going to follow my heart and become a dog photographer & I am travelling down a new creative path with purpose to make people happy, myself included; and cuddle as many dogs as possible! And what better way to make people happy than to create memories of their adored furry friend. I am a part of the Photography Institute however I have always been nifty with a camera and a lot of my skills have been self-taught. I love hard copy photos that you can touch, hold and keep forever, and I am always that person that brings out the old photo albums, creating photobooks as birthday presents, making holiday videos and yep, I am that person always with a camera in hand. You can be sure I am either taking photos, looking at photos or creating something incredible with those memories. I do not just take photos, I create keepsakes of cherished memories.I grew up in the Perth Hills, Western Australia, with a large family and forever a rescued family dog. I have a partner Jason, many friends and a beloved god daughter who makes a very good assistant but a not so great model as she is currently a 3 year old human hurricane. I am currently renting and not allowed a dog of my own, however the day I can I know she will be a Golden Cocker Spaniel named Honey",
     age: 26,
     phone: '',
     nationality: 'Australian',
@@ -181,14 +181,14 @@ const database = {
         year: "2020 - Present",
         position: "Freelance Photographer",
         company: "Honey Photographer",
-        details: "In 2020 I took a leap and decided I am going to follow my heart and become a dog photographer & I am travelling down a new creative path with purpose to make people happy, myself included; and cuddle as many dogs as possible! And what better way to make people happy than to create memories of their adored furry friend. I am a part of the Photography Institute however I have always been nifty with a camera and a lot of my skills have been self-taught. I love hard copy photos that you can touch, hold and keep forever, and I am always that person that brings out the old photo albums, creating photobooks as birthday presents, making holiday videos and yep, I am that person always with a camera in hand.You can be sure I am either taking photos, looking at photos or creating something incredible with those memories. I do not just take photos, I create keepsakes of cherished memories."
+        details: "That’s right, I am a crazy dog lady, minus the dog. Honey Photography specialises in dogs of all kind, small, medium, large, chonky, intelligent and … the opposite, the groomed, the slobbery, you name it and we specialise in all things Canine. Honey Photography offers 2 different different photoshoot options, we can do a 1 hour shoot in nature (beach, park, bush) or we can do an at home studio back drop shoot in your dog’s special comfort zone. You get to view these photos instantly on the day unedited and you can select your favourites. I then edit these photos myself by hand (without presets). I will then personalise an intimate keepsake box with a few special items for you and your furry friend to adore. This will then be delivered directly to your home. I hope to see you all soon and you will have to see what I have planned for the future. Hopefully seeing you at markets, dog beaches and parks soon :). Thank you so much for your support, it is very much appreciated !"
       },
        {
          id: 2,
          year: "2015 - Present",
          position: "Registered Nurse",
-         company: "CBA Company",
-         details: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. Deleniti exercitationem nostrum quasi. Molestiae, vel porro."
+         company: "Fiona Stanley Hospital",
+         details: "My main inspiration to become a nurse comes from an inborn desire to care for people in times of their need. I feel that helping patients overcome the burden of different health conditions, as well as, supporting their families through such difficult times is satisfactory."
        },
       // {
       //   id: 3,
@@ -222,60 +222,60 @@ const database = {
       // }
     ]
   },
-  blogs: [
+ /*  blogs: [
     {
       id: 1,
       title: "React new version is coming!",
       imageUrl: "/images/blog-image-1.jpg",
-      content: "ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour.",
+      content: "",
       createTime: "03 December 2019"
     },
     {
       id: 2,
       title: "More about react hooks",
-      content: "ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour.",
+      content: "",
       createTime: "04 December 2019"
     },
     {
       id: 3,
       title: "Next generation javascript learning source",
-      content: "ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour.",
+      content: "",
       createTime: "05 December 2019"
     },
     {
       id: 4,
       title: "Free tutorial downloading link.",
       imageUrl: "/images/blog-image-2.jpg",
-      content: "ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour.",
+      content: "",
       createTime: "06 December 2019"
     },
     {
       id: 5,
       title: "Get 2500 free mockup for design.",
       youtubeUrl: "TKnufs85hXk",
-      content: "ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour.",
+      content: "",
       createTime: "08 December 2019"
     },
     {
       id: 6,
       title: "React vs Vue vs Angular, what is best?",
       vimeoUrl: "23534361",
-      content: "ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour.",
+      content: "",
       createTime: "10 December 2019"
     },
     {
       id: 7,
       title: "Web design typography & spacing.",
-      content: "ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour.",
+      content: "",
       createTime: "03 December 2019"
     },
     {
       id: 8,
       title: "React new version is coming with a great features.",
-      content: "ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour. ReactJS is the most popular javascript framework now a days. Now it has comes with more and more new features. There is something called hooks, which has a great flavour.",
+      content: "",
       createTime: "03 December 2019"
     }
-  ],
+  ], */
   contactInfo: {
     phoneNumbers: ['+61 400 007 073'],
     emailAddress: ['honeyphotography@outlook.com.au'],
