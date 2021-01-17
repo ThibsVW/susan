@@ -17,9 +17,10 @@ const database = {
       pinterest: '',
       behance: '',
       linkedin: '',
-      dribbble: 'https://www.instagram.com/honeyphotography.dogs/',
+      dribbble: '',
       github: '',
-      stackoverflow: ''
+      stackoverflow: '',
+      instagram: 'https://www.instagram.com/honeyphotography.dogs/'
     },
     brandImage: '/images/brand-image.jpg',
     aboutImage: '/images/about-image.jpg',

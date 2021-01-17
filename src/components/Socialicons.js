@@ -54,6 +54,11 @@ function Socialicons(props){
           <LineIcon name="stackoverflow"/>
         </a>
       </li>}
+      {!socialLinks.instagram ? null : <li>
+        <a rel="noopener noreferrer" target="_blank" href={socialLinks.instagram}>
+          <LineIcon name="instagram"/>
+        </a>
+      </li>}
     </ul>
   );
 }
