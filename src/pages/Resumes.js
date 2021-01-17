@@ -121,7 +121,7 @@ function About(){
                     <b>Freelance</b> {information.freelanceStatus}
                   </li>}
                   </ul> */}
-                <a href={information.cvfile} className="mi-button">Price List</a>
+                <a href={information.cvfile} className="mi-button">Click here to download</a>
               </div>
             </div>
           </div>

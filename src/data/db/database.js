@@ -25,7 +25,7 @@ const database = {
     brandImage: '/images/brand-image.jpg',
     aboutImage: '/images/about-image.jpg',
     aboutImageLg: '/images/about-image-lg.jpg',
-    cvfile: '/files/Resume(1.17.2020).pdf'
+    cvfile: '/files/PriceList.pdf'
   },
   services: [
     {
