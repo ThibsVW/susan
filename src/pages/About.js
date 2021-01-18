@@ -169,7 +169,10 @@ function About(){
           </div>
         </div>
               </div>*/}
-
+<div className="container">
+  <br></br>
+  <br></br>
+</div>
 <div className="container">
           <Sectiontitle title="About Honey Photography" />
           <div className="row">

@@ -31,7 +31,7 @@ function Header(){
                 </div>
                 <ul className="mi-header-menu">
                     <li><NavLink exact to="/"><span>Home</span></NavLink></li>
-                    <li><NavLink to="/about"><span>Biographies</span></NavLink></li>
+                    <li><NavLink to="/about"><span>About</span></NavLink></li>
                     <li><NavLink to="/resume"><span>Price List &amp; Reviews</span></NavLink></li>
                     <li><NavLink to="/portfolios"><span>My Furry Friends</span></NavLink></li>
                     <li><NavLink to="/contact"><span>Contact Me</span></NavLink></li>
