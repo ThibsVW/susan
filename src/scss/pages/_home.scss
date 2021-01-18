@@ -53,14 +53,18 @@
     &-content{
       padding: 50px 0px;
     }
+    
   }
 
   @media #{$layout-tablet}{
     &-content{
       padding: 50px 0px;
 
+      h1{
+        font-size: 7rem;
+      };
       p{
-        font-size: 2rem;
+        font-size: 3rem;
         line-height: 1.75rem;
       }
     }

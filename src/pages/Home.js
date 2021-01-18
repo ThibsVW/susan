@@ -56,8 +56,11 @@ function Home(){
                 <h1> 
                   Honey Photography <span className="webTitle"></span>
                 </h1>
+                <br></br>
+                <br></br>
                 <p>Hello, my name is Simone, and I will be your Photographer!
                 </p>
+                <br></br>
                 <Socialicons bordered />
               </div>
             </div>

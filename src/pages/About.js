@@ -178,12 +178,11 @@ function About(){
           <div className="row">
             <div className="col-lg-6">
               <div className="mi-about-image">
-               {/*} <img
-                  src={information.aboutImage}
+                <img
+                  src={information.aboutImageLg}
                   alt="about"
                   onClick={() => handleToggler(!toggler)}
                 />
-            */}
                 <span className="mi-about-image-icon">
                   <Icon.ZoomIn />
                 </span>
