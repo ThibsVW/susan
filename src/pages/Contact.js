@@ -103,7 +103,13 @@ function Contact(){
           <div className="row">
             <div className="col-lg-6">
               <div className="mi-contact-formwrapper">
+
+                {/*    
                 <h4>Get In Touch</h4>
+
+ 
+
+
                 <form action="https://formspree.io/xzbeqbjq" method="POST" className="mi-form mi-contact-form" onSubmit={submitHandler}>
                   <div className="mi-form-field">
                     <label htmlFor="contact-form-name">Enter your name*</label>
@@ -122,12 +128,20 @@ function Contact(){
                     <textarea onChange={handleChange} name="message" id="contact-form-message" cols="30" rows="6" value={formdata.message}></textarea>
                   </div>
                   <div className="mi-form-field">
-                    {/* {status === "SUCCESS" ? <p>Thanks!</p> : <button>Submit</button>}
-                    {status === "ERROR" && <p>Ooops! There was an error.</p>} */}
+
+                    ///below 2 lines == message
+
+                    {status === "SUCCESS" ? <p>Thanks!</p> : <button>Submit</button>}
+                    {status === "ERROR" && <p>Ooops! There was an error.</p>} 
+
+
                     <button className="mi-button" type="submit" value="Send">Send Mail</button>
                   </div>
                 </form>
                 {handleAlerts()}
+              */}
+              
+
               </div>
             </div>
             <div className="col-lg-6">
