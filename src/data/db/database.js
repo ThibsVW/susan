@@ -47,7 +47,7 @@ const database = {
   reviews: [
     {
       id: 1,
-      content: "Wow we are both blown away, these photos are beautiful. Thank you so much for capturing our wedding day. We love our photos and how you’ve captured every precious moment of our ceremony in detail.",
+      content: "Wow we are both blown away, these photos are beautiful. Thank you so much for capturing our beautiful dog.",
       author: {
         name: 'Mark & Angelica',
         designation: ''
@@ -278,7 +278,7 @@ const database = {
     }
   ], */
   contactInfo: {
-    phoneNumbers: ['+61 400 007 073'],
+    phoneNumbers: ['+61400007073'],
     emailAddress: ['honeyphotography@outlook.com.au'],
     address: "Perth, Australia"
   }
