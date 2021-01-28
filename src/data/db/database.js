@@ -278,9 +278,9 @@ const database = {
     }
   ], */
   contactInfo: {
-    phoneNumbers: ['+61400007073'],
     emailAddress: ['honeyphotography@outlook.com.au'],
-    address: "Perth, Australia"
+    address: "Perth, Australia",
+       /*phoneNumbers: ['+61400007073'],*/
   }
 }
 
