@@ -159,12 +159,12 @@ const database = {
       url: 'https://www.facebook.com/honeyphotography.dogs/photos/107161754657786'
     },
     {
-      //id: 8,
-      //title: "NYT Article Scraper",
-      //subtitle: "React, Mongoose, Cheerio",
-      //imageUrl: "/images/portfolio-image-8.jpg",
+      id: 8,
+      title: "Lilly",
+      subtitle: "Clink on the picture to meet Lilly",
+      imageUrl: "/images/portfolio-image-8.jpg",
       // largeImageUrl: ["/images/portfolio-image-8-lg.jpg"],
-      //url: 'https://young-river-49658.herokuapp.com/'
+      url: 'https://www.facebook.com/honeyphotography.dogs/photos/a.107161771324451/111912864182675/'
     },
     {
       //id: 9,
