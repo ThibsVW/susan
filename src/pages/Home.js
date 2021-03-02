@@ -54,11 +54,15 @@ function Home(){
             <div className="col-lg-10 col-12">
               <div className="mi-home-content">
                 <h1> 
-                  Honey Photography <span className="webTitle"></span>
+                  Susan Caremeli Art<span className="webTitle"></span>
                 </h1>
                 <br></br>
                 <br></br>
-                <p>Hello, my name is Simone, and I will be your Photographer!
+                <p>Welcome to my website.
+                  <br>
+                  </br>
+                  <br></br>
+                  I am a Western Australian artist and author/illustrator.
                 </p>
                 <br></br>
                 <Socialicons bordered />

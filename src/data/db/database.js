@@ -2,17 +2,17 @@ import Mock from "../mock";
 
 const database = {
   information: {
-    name: 'Simone',
-    aboutContent: "Hello, my name is Simone, and I will be your Photographer! This is a little blurb to get to know me :). I have been a Nurse for the past 5 years caring and helping all kinds of people, I love nursing but needed a little something more wholesome. I always joked that if I quit my career I would become a dog photographer because who wouldn’t want to spend every day with dogs? In 2020 I took a leap and decided I am going to follow my heart and become a dog photographer & I am travelling down a new creative path with purpose to make people happy, myself included; and cuddle as many dogs as possible! And what better way to make people happy than to create memories of their adored furry friend. I am a part of the Photography Institute however I have always been nifty with a camera and a lot of my skills have been self-taught. I love hard copy photos that you can touch, hold and keep forever, and I am always that person that brings out the old photo albums, creating photobooks as birthday presents, making holiday videos and yep, I am that person always with a camera in hand. You can be sure I am either taking photos, looking at photos or creating something incredible with those memories. I do not just take photos, I create keepsakes of cherished memories.I grew up in the Perth Hills, Western Australia, with a large family and forever a rescued family dog. I have a partner Jason, many friends and a beloved god daughter who makes a very good assistant but a not so great model as she is currently a 3 year old human hurricane. I am currently renting and not allowed a dog of my own, however the day I can I know she will be a Golden Cocker Spaniel named Honey",
-    age: 26,
+    name: 'Susan',
+    aboutContent: "Welcome to my website. I am a Western Australian artist and author/illustrator. I love the beauty of nature and attempt to capture this in my artwork. Artist quality acrylic paint, pencil and watercolour are the mediums I mainly use. Writing and illustration are also passions of mine and I publish books and short stories.I hope I can share my creations with you.",
+    age: "",
     phone: '',
     nationality: 'Australian',
     language: 'English',
-    email: 'honeyphotography@outlook.com.au',
+    email: 'susancarameliart@gmail.com',
     address: '',
     freelanceStatus: 'Available',
     socialLinks: {
-      facebook: 'https://www.facebook.com/honeyphotography.dogs',
+      facebook: '',
       twitter: '',
       pinterest: '',
       behance: '',
@@ -20,7 +20,7 @@ const database = {
       dribbble: '',
       github: '',
       stackoverflow: '',
-      instagram: 'https://www.instagram.com/honeyphotography.dogs/'
+      instagram: 'https://www.instagram.com/susancarameliart/'
     },
     brandImage: '/images/brand-image.jpg',
     aboutImage: '/images/about-image.jpg',
@@ -278,7 +278,7 @@ const database = {
     }
   ], */
   contactInfo: {
-    emailAddress: ['honeyphotography@outlook.com.au'],
+    emailAddress: ['susancarameliart@gmail.com'],
     address: "Perth, Australia",
        /*phoneNumbers: ['+61400007073'],*/
   }
